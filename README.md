@@ -76,6 +76,6 @@ Explore model optimization and deployment
 
 👤 Author
 
-Asghar Ali
+Farhan Rana
 💼 AI & ML Enthusiast | 📚 Continuous Learner
 🔗 GitHub
