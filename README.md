@@ -121,8 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Farhan Rana**  
 AI & ML Enthusiast | Continuous Learner  
-- GitHub: [yourusername](https://github.com/yourusername)  
+- GitHub: [yourusername](https://github.com/farhanrana234)  
 - LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com  
+- Email: rana.tdm@gmail.com  
 
 Feel free to star ⭐ the repo if you find it useful!
